@@ -99,7 +99,8 @@ src/
 8. **Theme toggle** — Click the sun/moon icon in the header
 9. **Dashboard** — Navigate to the Dashboard for stats
 10. **Reset** — Click the reset icon to clear all tasks
-
+    
+LIVE Link: https://react-kanban-board-ochre.vercel.app/
 ## Credits
 
 Built with passion by **Sagar Rawat**.
